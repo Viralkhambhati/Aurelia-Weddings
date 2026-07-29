@@ -3,7 +3,7 @@
 **Create a beautiful, personalized wedding invitation website in minutes — no coding, no design skills needed.**
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-ff4d8d?style=for-the-badge)](https://aureliaweddings.viralkhambhati.qzz.io/)
-[![GitHub Stars](https://img.shields.io/github/stars/Viralkhambhati/your-repository-name?style=for-the-badge&color=yellow)](https://github.com/Viralkhambhati/your-repository-name)
+[![GitHub Stars](https://img.shields.io/github/stars/Viralkhambhati/Aurelia-Weddings?style=for-the-badge&color=yellow)](https://github.com/Viralkhambhati/Aurelia-Weddings)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](#-license)
 
 **👉 [Try Aurelia Weddings Now](https://aureliaweddings.viralkhambhati.qzz.io/) — Build your digital wedding invite in under 5 minutes.**
