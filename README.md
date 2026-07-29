@@ -11,7 +11,16 @@ Aurelia Weddings is a modern **digital wedding invitation platform** (Indian wed
 > 🔍 **Also searched as:** online wedding invitation card, digital shaadi card, e-invite website, wedding invitation link generator, free wedding website builder India
 
 ---
+## 🚀 How It Works
 
+1. **Create an account**
+2. **Login** to your dashboard
+3. **Fill in** wedding details
+4. **Add** wedding events
+5. **Generate** your invitation website
+6. **Share** your unique link with family and friends
+
+---
 ## 📸 See It In Action
 
 <table>
@@ -73,7 +82,7 @@ Each event supports: Event Name, Date, Time, Venue, and Google Maps Link.
 ### 🔗 Dynamic Invitation URLs
 Every invitation gets a unique, shareable public URL:
 ```
-https://yourdomain.com/amita-weds-sahil
+https://aureliaweddings.viralkhambhati.qzz.io/invite/priya-weds-aarav
 ```
 
 ### 📍 Google Maps Integration
@@ -84,17 +93,6 @@ Optimized for Mobile, Tablet, Laptop, and Desktop.
 
 ### ⚡ Performance
 Server-side Caching · Lazy Loading · Optimized API Responses · Fast Page Rendering
-
----
-
-## 🚀 How It Works
-
-1. **Create an account**
-2. **Login** to your dashboard
-3. **Fill in** wedding details
-4. **Add** wedding events
-5. **Generate** your invitation website
-6. **Share** your unique link with family and friends
 
 ---
 
